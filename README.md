@@ -7,4 +7,4 @@
 5. git checkout --.           : comando permite recuperar los cambios que guardaron con el commit.
 6. git log                    : comando que permite ver todos los commit realizados en el repositorio [Q para salir del log].
 7. git commit --amend         : comando permite modificar el ultimo commit [ tecla ESC ->  tecla : -> digitar comando wq!].
-8. git chekout -b rama-heroes : comando permite crear dentro del repositorio.
+8. git chekout -b rama-heroes : comando permite crear una rama dentro del repositorio.
