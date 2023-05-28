@@ -8,3 +8,4 @@
 6. git log                    : comando que permite ver todos los commit realizados en el repositorio [Q para salir del log].
 7. git commit --amend         : comando permite modificar el ultimo commit [ tecla ESC ->  tecla : -> digitar comando wq!].
 8. git chekout -b ["nombre de rama"] : comando permite crear una rama dentro del repositorio.
+9. git branch                        : comando permite revisar las difirentes ramas.
