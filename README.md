@@ -10,3 +10,5 @@
 8. git chekout -b ["nombre de rama"] : comando permite crear una rama dentro del repositorio.
 9. git branch                        : comando permite revisar las difirentes ramas.
 10. git checkout master              : comando permite revisar las difirentes ramas.
+11. git branch -d [nombre rama]      : comando permite borrar una rama.
+
