@@ -11,4 +11,6 @@
 9. git branch                        : comando permite revisar las difirentes ramas.
 10. git checkout master              : comando permite revisar las difirentes ramas.
 11. git branch -d [nombre rama]      : comando permite borrar una rama.
+12. git push                         : comando que permite subir los cambios de realizados a un repositorio web[github]
+13. git commit -am ""                : comado permite realizar commit de manera mas rapida.
 
